@@ -1,4 +1,4 @@
-# IssuesDiscussion
+# Yarn Spinner Issues & Discussion
 
 <img src="https://downloads.yarnspinner.dev/get/YarnSpinnerLogo.png" alt="Yarn Spinner logo" width="100px;" align="right">
 
