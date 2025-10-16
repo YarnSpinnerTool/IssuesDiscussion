@@ -10,11 +10,13 @@ Yarn Spinner's tools are separated into multiple repositories to suit their mode
 
 ## Usage
 
-This is the only place that we will accept issues concerning:
+This repository is for consolidating the projects managed primarily by the core team. For projects managed by community leaders, they will still go in their respective repositories. See below for what goes where:
 
-* [Yarn Spinner Core](https://github.com/YarnSpinnerTool/YarnSpinner)
-* [Yarn Spinner for Unity](https://github.com/YarnSpinnerTool/YarnSpinner-Unity)
-* [Yarn Spinner Extension for Visual Studio Code](https://github.com/YarnSpinnerTool/VSCodeExtension)
+| Issues which go here | Issues which go in their repos |
+|:---|:---|
+| [Yarn Spinner Core](https://github.com/YarnSpinnerTool/YarnSpinner) | [Yarn Spinner for Rust/Bevy](https://github.com/YarnSpinnerTool/YarnSpinner-Rust) |
+| [Yarn Spinner for Unity](https://github.com/YarnSpinnerTool/YarnSpinner-Unity) | [Yarn Spinner for Godot](https://github.com/YarnSpinnerTool/YarnSpinner-Godot) |
+| [Yarn Spinner Extension for Visual Studio Code](https://github.com/YarnSpinnerTool/VSCodeExtension) | |
 
 To submit a PR, you must first open an issue to propose the change. This reduces wasted work if something is already being worked on, not desired by others, or will conflict with other functionality.
 
