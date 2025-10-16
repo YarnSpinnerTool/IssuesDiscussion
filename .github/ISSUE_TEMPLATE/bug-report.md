@@ -29,3 +29,7 @@ assignees: ''
 **Other information** 
 
 <!-- For example, a detailed explanation, stacktraces, related issues, suggestions how to fix, links for us to have context, screenshots... -->
+
+**Add tags**
+
+<!-- Please tag this issue with the appropriate technology: Core (compiler/language), Unity, VSCode, etc. -->

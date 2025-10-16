@@ -22,3 +22,7 @@ assignees: ''
 **Additional context**
 
 <!-- Add any other context or screenshots about the feature request here. -->
+
+**Add tags**
+
+<!-- Please tag this issue with the appropriate technology: Core (compiler/language), Unity, VSCode, etc. -->
