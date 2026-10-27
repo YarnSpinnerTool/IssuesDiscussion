@@ -13,7 +13,8 @@ This repository is for consolidating the projects managed primarily by the core 
 |:---|:---|
 | [Yarn Spinner Core](https://github.com/YarnSpinnerTool/YarnSpinner) | [Yarn Spinner for Rust/Bevy](https://github.com/YarnSpinnerTool/YarnSpinner-Rust) |
 | [Yarn Spinner for Unity](https://github.com/YarnSpinnerTool/YarnSpinner-Unity) | [Yarn Spinner for Godot (C#)](https://github.com/YarnSpinnerTool/YarnSpinner-Godot) |
-| [Yarn Spinner Extension for Visual Studio Code](https://github.com/YarnSpinnerTool/VSCodeExtension) | [Yarn Spinner for Godot (GDScript)](https://github.com/YarnSpinnerTool/YarnSpinner-Godot-GDScript) |
-| ["Try Yarn Spinner" Online Editor](https://github.com/YarnSpinnerTool/try.yarnspinner.dev) | [Yarn Spinner for Unreal Engine](https://github.com/YarnSpinnerTool/YarnSpinner-Unreal) |
+| [Yarn Spinner Extension for Visual Studio Code](https://github.com/YarnSpinnerTool/VSCodeExtension) | [Yarn Spinner for Unreal Engine](https://github.com/YarnSpinnerTool/YarnSpinner-Unreal) |
+| ["Try Yarn Spinner" Online Editor](https://github.com/YarnSpinnerTool/try.yarnspinner.dev) | |
+| [Yarn Spinner for Godot (GDScript)](https://github.com/YarnSpinnerTool/YarnSpinner-Godot-GDScript) | |
 
 To submit a PR, you must first open an issue to propose the change. This reduces wasted work if something is already being worked on, not desired by others, or will conflict with other functionality.
